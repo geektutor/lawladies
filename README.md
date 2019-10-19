@@ -34,7 +34,7 @@ You can find an online demo at [PAADC](https://geektutor.github.io/PAADC).
 - index.html 				:main html file where magic happens
 
 ```
-
+and thats the end of the code
 # How to run locally
 
 - Open your command prompt and clone the repository by running
